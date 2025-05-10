@@ -26,7 +26,7 @@
         }
       ],
       "get": {
-        "summary": "Get User Info by User ID",
+        "summary": "sdsddfsf",
         "tags": [],
         "responses": {
           "200": {
@@ -63,7 +63,7 @@
         }
       },
       "patch": {
-        "summary": "Update User Information",
+        "summary": "dfsdfdf4545445",
         "operationId": "patch-users-userId",
         "responses": {
           "200": {
